@@ -1,3 +1,4 @@
+COSC231101014(6A)
 # -Web-Technology-Lab-project
 Modern Login and Dashboard System
 The Modern Login and Dashboard System is a web-based application developed using PHP, MySQL, HTML, and CSS. The main objective of this project is to create a secure login system and a professional dashboard interface that allows users to access and manage system features easily.This project focuses on providing a clean design, secure authentication, and a user-friendly experience suitable for modern web applications.
